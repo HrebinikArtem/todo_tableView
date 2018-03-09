@@ -15,6 +15,7 @@
 		540718AE204892A8007CE4D1 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 540718AD204892A8007CE4D1 /* TableViewController.swift */; };
 		540718B220489AD0007CE4D1 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 540718B120489AD0007CE4D1 /* TableViewCell.swift */; };
 		540718B42048A0BB007CE4D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 540718B32048A0BB007CE4D1 /* ViewController.swift */; };
+		546EEFBC2052BDC4001AB17F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 546EEFBB2052BDC4001AB17F /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		540718AD204892A8007CE4D1 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		540718B120489AD0007CE4D1 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		540718B32048A0BB007CE4D1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		546EEFBB2052BDC4001AB17F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				540718A220489284007CE4D1 /* LaunchScreen.storyboard */,
 				540718A520489284007CE4D1 /* Info.plist */,
 				5407189D20489284007CE4D1 /* todo_tableView.xcdatamodeld */,
+				546EEFBB2052BDC4001AB17F /* .gitignore */,
 			);
 			path = todo_tableView;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				546EEFBC2052BDC4001AB17F /* .gitignore in Resources */,
 				540718A420489284007CE4D1 /* LaunchScreen.storyboard in Resources */,
 				540718A120489284007CE4D1 /* Assets.xcassets in Resources */,
 				5407189C20489284007CE4D1 /* Main.storyboard in Resources */,
