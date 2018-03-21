@@ -1,8 +1,8 @@
 ### todo_tableView
 ###### todo_list с использованием CodeData
 
-- - [Видео описание приложения to_do_list на youtube](https://youtu.be/YrvThCDvnlg "youtube")
-- - [Видео описание приложения to_do_list + CoreData на youtube](https://youtu.be/MjmRd0NTSV4")
+- [Видео описание приложения to_do_list на youtube](https://youtu.be/YrvThCDvnlg "youtube")
+- [Видео описание приложения to_do_list + CoreData на youtube](https://youtu.be/MjmRd0NTSV4")
 
 <a href="https://imgflip.com/gif/26tpqy"><img src="https://i.imgflip.com/26tpqy.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/26tpth"><img src="https://i.imgflip.com/26tpth.gif" title="made at imgflip.com"/></a>
