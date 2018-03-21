@@ -1,5 +1,5 @@
 ### todo_tableView
-###### todo_list это просто список задач с использованием CodeData 
+###### todo_list это простой список задач с использованием CodeData 
 
 - [Видео описание приложения to_do_list на youtube](https://youtu.be/YrvThCDvnlg "youtube")
 - [Видео описание приложения to_do_list + CoreData на youtube](https://youtu.be/MjmRd0NTSV4")
